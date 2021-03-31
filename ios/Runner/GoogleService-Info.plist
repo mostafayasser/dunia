@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>623428631196-5ouva3d6vgsl3bf6un53vfhv0g1unvc0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.623428631196-5ouva3d6vgsl3bf6un53vfhv0g1unvc0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>623428631196-8597fvhpoo06ti3r8djrptcorv4qvram.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJM_CGV50LJr6RYTlAkzLFnDHZIc7w_Ok</string>
+	<key>GCM_SENDER_ID</key>
+	<string>623428631196</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.halalweb.dunia.com</string>
+	<key>PROJECT_ID</key>
+	<string>halalweb-dunia-7f66a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>halalweb-dunia-7f66a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:623428631196:ios:44e5faf91f532f58b88b59</string>
+</dict>
+</plist>

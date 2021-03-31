@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "623428631196",
+    "project_id": "halalweb-dunia-7f66a",
+    "storage_bucket": "halalweb-dunia-7f66a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623428631196:android:925dc444c8137f59b88b59",
+        "android_client_info": {
+          "package_name": "com.halalweb.dunia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623428631196-8597fvhpoo06ti3r8djrptcorv4qvram.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halalweb.dunia",
+            "certificate_hash": "5834e16604973a16660f04a08de4dddf6a7479e8"
+          }
+        },
+        {
+          "client_id": "623428631196-vvoqmh89ls6gtp5m4mbb1jcvsgfrktu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDMJTseB5tL0QXk91q6DjKd-y8euWjEo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623428631196-vvoqmh89ls6gtp5m4mbb1jcvsgfrktu2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623428631196-5ouva3d6vgsl3bf6un53vfhv0g1unvc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halalweb.dunia.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623428631196:android:2dda38cf63d92d4eb88b59",
+        "android_client_info": {
+          "package_name": "com.halalweb.dunia.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623428631196-h8155evbi21r6eicetol216a2vpd2k4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halalweb.dunia.com",
+            "certificate_hash": "e20b55a32fef0b1233b2cebbfdff08f48bd5c82d"
+          }
+        },
+        {
+          "client_id": "623428631196-ivne2peapvdfh1fgbjbgo4n2kpf33d8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halalweb.dunia.com",
+            "certificate_hash": "8607219278a627eb4045fc85709ba7c5df66712d"
+          }
+        },
+        {
+          "client_id": "623428631196-pqqckpdj6nqidnpe1m4c2oeaq6apmnh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halalweb.dunia.com",
+            "certificate_hash": "c3575d9a5f1b2f2122a7e66cd51320da06b896a0"
+          }
+        },
+        {
+          "client_id": "623428631196-vvoqmh89ls6gtp5m4mbb1jcvsgfrktu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDMJTseB5tL0QXk91q6DjKd-y8euWjEo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623428631196-vvoqmh89ls6gtp5m4mbb1jcvsgfrktu2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623428631196-5ouva3d6vgsl3bf6un53vfhv0g1unvc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halalweb.dunia.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
